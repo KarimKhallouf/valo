@@ -7,7 +7,7 @@
 .hero{
     height: 100%;
     width: 100%;
-    background-color:black;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJzVEY3b0D5O8XBIeAqFKJCbFM74W-HTwGUiBIsO7KHSU1g5F8e7w5Ai6WP6vUAkiejkbURgZ6g6QqaVWION_2Nye-6e8DCoZA1xnrQuA2jNZBt-GMt_FRG_2R0-a8qTSW7uFywq_74Tuq/s320/valorant-agents-hero-4k-uhdpaper.com-595.0_a-thumbnail.jpg);
     background-position: center;
     background-size: cover;
     position: absolute;
